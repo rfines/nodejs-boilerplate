@@ -1,0 +1,30 @@
+{
+  "name": "MYMODULE",
+  "description": "MYMODULE Description",
+  "keywords": [
+    "keyword1",
+    "keyword2"
+  ],
+  "version": "1.0.0",
+  "author": "Your Name <mail@mail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/barzik/nodejs-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/barzik/nodejs-boilerplate/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "config": {
+    "native": false
+  },
+  "main": "./index.js",
+  "directories": {
+    "lib": "./lib/"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "BSD-2-Clause"
+}

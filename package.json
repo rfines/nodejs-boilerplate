@@ -1,0 +1,31 @@
+{
+  "name": "node-js-module-boilerplate",
+  "description": "This module is basic vanilla boilerplate for Node.js modules",
+  "keywords": [
+    "boilerplate",
+    "module",
+    "template"
+  ],
+  "version": "1.0.0",
+  "author": "Robert Fines <rfines@genjisbutler.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rfines/nodejs-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rfines/nodejs-boilerplate/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "config": {
+    "native": false
+  },
+  "directories": {
+    "MYMODULE": "./MYMODULE/"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "BSD-2-Clause",
+  "main": "./MYMODULE/index.js"
+}
